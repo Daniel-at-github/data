@@ -1,0 +1,30 @@
+{
+  "copyright_text": "Standard YouTube License",
+  "description": "Event description:\n\nIn short presentation led by Martin Bago, data scientist from Instarea, you will learn:\n\n- Why interactive map is better than infographic\n\n- How to create practical & interactive .html maps in Python or R\n\n- Which libraries are necessary\n\n- What are the key issues\n\n- how to integrate polygons of districts, how to color your map, etc...\n\n- What kind of data does we use\n\n- and what are the typical use cases we covered by interactive maps\n\nAbout speaker:\n\nMartin Bago, Instarea\n\nLinkedIn: https://www.linkedin.com/in/martinbago/\n\nGitHub: https://github.com/MartinBago\n\nRegistration:\n\n@Eventbrite registration here & @Meetup.com group's event here (if you use both your seat is guarateed). +our event you can find also @Facebook here.\n\n[Disclaimer: If you just mark \"going\" @Facebook event we can't guarantee your seat]\n\nLanguage of the event: Python & English\n\n-.--.--.--.--.--.--.--.--.--.--.--.-\nPyData Bratislava [Python Data Enthusiasts and Users, Data Scientists & Statisticians of all levels from Slovakia]\n\n-.--.--.--.--.--.--.--.--.--.--.--.-\n\nThis meetup group is for Data Scientists, Statisticians, Economists and Data Enthusiasts using Python for data analysis and data visualization. The goals are to provide Python enthusiasts a place to share ideas and learn from each other about how best to apply the language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.\n--\n\nPyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.\n\nThe PyData Code of Conduct governs this meetup. To discuss any issues or concerns relating to the code of conduct or the behavior of anyone at a PyData meetup, please contact NumFOCUS Executive Director Leah Silen (+1 512-222-5449; leah@numfocus.org) or the group organizer.\n\n-.--.--.--.--.--.--.--.--.--.--.--.-\n\nOur PyData Bratislava (Facebook group) you can find here: /redirect?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1813599648877946%2F&redir_token=yJpwkc3NxDMVeHi_iN6xSweGVyt8MTUxOTU1MzA4NUAxNTE5NDY2Njg1&v=SQICRNS9A2Y&event=video_description\n\nOur PyData Bratislava (Twitter account) here: https://twitter.com/PyDataBA\n\nOur PyData Bratislava (LinkedIn group) here: https://www.linkedin.com/groups/13506080\n-.--.--.--.--.--.--.--.--.--.--.--.-\nGapData Institute (GDI) is a nonprofit nonpartisan research institution harnessing power of data & wisdom of economics for public good. || Data. Think. Change. ||\n\nNumFOCUS is a 501(c)(3) nonprofit that supports and promotes world-class, innovative, open source scientific computing. The mission of NumFOCUS is to promote sustainable high-level programming languages, open code development, and reproducible scientific research. We accomplish this mission through our educational programs and events as well as through fiscal sponsorship of open source data science projects. We aim to increase collaboration and communication within the scientific computing community.",
+  "duration": 2168,
+  "language": "eng",
+  "recorded": "2018-01-08",
+  "related_urls": [
+    {
+      "label": "group meetup",
+      "url": "https://www.meetup.com/PyData-Bratislava/"
+    },
+    "https://twitter.com/PyDataBA",
+    "https://www.linkedin.com/in/martinbago/",
+    "https://github.com/MartinBago",
+    "https://www.linkedin.com/groups/13506080"
+  ],
+  "speakers": [
+    "TODO",
+    "enter_manually"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/SQICRNS9A2Y/maxresdefault.jpg",
+  "title": "[Martin Bago: How to create interactive maps in R & Python @ PyData Bratislava Meetup #5]",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=SQICRNS9A2Y"
+    }
+  ]
+}

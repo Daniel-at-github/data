@@ -1,0 +1,30 @@
+{
+  "copyright_text": "Standard YouTube License",
+  "description": "Title: Using Clustering Of Electricity Consumers To Produce More Accurate Predictions\n\nEvent description:\nPeter Laurinec will give us tips and tricks for predicting mainly seasonal time series of electricity consumption. Appropriate methods to predict seasonal time series will be mentioned. We will pay main attention to the usage of cluster analysis to produce more accurate predictions and the following importance of dimensionality reduction. We will talk how such approaches can be efficiently programmed in R /data.table, parallel, acceleration of matrix calculus - MRO/.\n\nAbout speaker/Peter Laurinec:\nResearcher\n* Interested in data mining, machine learning and data analysis.\n* Developing a method for clustering multiple data streams.\n* Improving forecast methods for time series.\n* Cluster analysis of large datasets Big Data.\nBlogger\n* link: https://petolau.github.io/\n* Writing about time series data mining data pre-processing, forecasting and cluster analysis.\n* Written in R and Rmarkdown.\nTeacher\n* Teaching procedural programming and artificial intelligence.\n* Tutoring in areas of statistics and mathematics.\n\nLinkedIn profile:\n/redirect?v=ENlo0a1-5Uo&event=video_description&redir_token=31RXoLLPcvqLo-XU5up6h2J_SQN8MTUxOTU1MzA3NUAxNTE5NDY2Njc1&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpeter-laurinec-590a8a90%2F\nGitHub profile:\nhttps://github.com/PetoLau\n\nResearchGate profile:\n/redirect?v=ENlo0a1-5Uo&event=video_description&redir_token=31RXoLLPcvqLo-XU5up6h2J_SQN8MTUxOTU1MzA3NUAxNTE5NDY2Njc1&q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FPeter_Laurinec\n\nLanguage of the event: R & Slovak\nR Slovakia R enthusiasts and users, data scientists and statisticians of all levels from Slovakia\n\nThis meetup group is for Data Scientists, Statisticians, Economists and Data Enthusiasts using R for data analysis and data visualization. The goals are to provide R enthusiasts a place to share ideas and learn from each other about how best to apply the language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.\n--\nPyData is a group for users and developers of data analysis tools to share ideas and learn from each other. We gather to discuss how best to apply Python tools, as well as those using R and Julia, to meet the evolving challenges in data management, processing, analytics, and visualization. PyData groups, events, and conferences aim to provide a venue for users across all the various domains of data analysis to share their experiences and their techniques. PyData is organized by NumFOCUS.org, a non-profit in the United States.\n\nOur R Slovakia Facebook group you can find here:\n/redirect?v=ENlo0a1-5Uo&event=video_description&redir_token=31RXoLLPcvqLo-XU5up6h2J_SQN8MTUxOTU1MzA3NUAxNTE5NDY2Njc1&q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F931707906955080%2F\n\nOur PyData Bratislava Facebook group you can find here:\n/redirect?v=ENlo0a1-5Uo&event=video_description&redir_token=31RXoLLPcvqLo-XU5up6h2J_SQN8MTUxOTU1MzA3NUAxNTE5NDY2Njc1&q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1813599648877946%2F\n\nOur R Slovakia LinkedIn group here:\nhttps://www.linkedin.com/groups/13503959\n\nOur PyData Bratislava LinkedIn group here:\nhttps://www.linkedin.com/groups/13506080\n\nGapData Institute /GDI/ is a nonprofit nonpartisan research institution harnessing power of data & wisdom of economics for public good. || Data. Think. Change. ||\n\nNumFOCUS is a nonprofit that supports and promotes world-class, innovative, open source scientific computing. The mission of NumFOCUS is to promote sustainable high-level programming languages, open code development, and reproducible scientific research. We accomplish this mission through our educational programs and events as well as through fiscal sponsorship of open source data science projects. We aim to increase collaboration and communication within the scientific computing community.",
+  "duration": 3462,
+  "language": "eng",
+  "recorded": "2017-04-04",
+  "related_urls": [
+    {
+      "label": "group meetup",
+      "url": "https://www.meetup.com/PyData-Bratislava/"
+    },
+    "https://www.linkedin.com/groups/13506080",
+    "https://petolau.github.io/",
+    "https://www.linkedin.com/groups/13503959",
+    "https://github.com/PetoLau"
+  ],
+  "speakers": [
+    "TODO",
+    "enter_manually"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/ENlo0a1-5Uo/hqdefault.jpg",
+  "title": "[Peter Laurinec: Clustering Electricity Consumers & Prediction  @R Slovakia Meetup #1]",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ENlo0a1-5Uo"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "copyright_text": "Standard YouTube License",
+  "description": "Event description: Join us on a journey into our own hearts through the images and data. Come to discuss artificial intelligence, healthcare, computer vision, and Python. This meetup is a sequel of my PyCon SK 2017 talk from two weeks ago.\n\nToday, we are acquiring more health data about ourselves than ever before. Many of us are already using apps and devices that record our physical activity, weight, diet, mood, heart rate, blood pressure, or sleep.\n\nIn addition to that, medical imaging techniques, such as magnetic resonance imaging (MRI) or computed tomography (CT), are giving us insights into our bodies with unprecedented detail. Yet, only few of us can interpret them (Remember the last time you saw your X-Ray?)\n\nAt KardioMe we build tools assisting radiologists and cardiologists to be more efficient with image analysis, tools that will empower all of us to better understand our health data and take better control of it.\n\nIn the talk we will explore how we use machine learning and image processing to extract meaningful image descriptions of our hearts. How machine learning helps us to organise and navigate through large scale (medical) image collections for visualisation.\n\nDo not hesitate to leave your suggestions in the comments for discussion.\n\nAbout speaker:\n\nJan Margeta is the founder of KardioMe, a Python aficionado, and a white water kayaker. He did his PhD in machine learning for automated medical image analysis at Inria Sophia Antipolis and MINES ParisTech and a joint master in computer vision and robotics (http://www.vibot.org). Now, he is putting all the research experience into real-world use to improve how we treat cardiac diseases. Jan is passionate about using technology to push the boundaries of human knowledge, teaching computers to see, solving hard challenges with data, and making our planet a sustainable place.\n\nhttps://kardio.me\nhttps://www.linkedin.com/in/jmargeta\n\nhttps://twitter.com/jmargeta\nRegistration:\n\n@Meetup.com group's event here & @Eventbrite registration here (if you use both your seat is guarateed). +our event you can find also @Facebook here.\n\n[Disclaimer: If you just mark \"going\" @Facebook event we can't guarantee your seat]\n\nLanguage of the event: Python & English\n\n-.--.--.--.--.--.--.--.--.--.--.--.-\nPyData Bratislava [Python Data Enthusiasts and Users, Data Scientists & Statisticians of all levels from Slovakia]\n\n-.--.--.--.--.--.--.--.--.--.--.--.-\n\nThis meetup group is for Data Scientists, Statisticians, Economists and Data Enthusiasts using Python for data analysis and data visualization. The goals are to provide Python enthusiasts a place to share ideas and learn from each other about how best to apply the language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.\n--\nPyData is a group for users and developers of data analysis tools to share ideas and learn from each other. We gather to discuss how best to apply Python tools, as well as those using R and Julia, to meet the evolving challenges in data management, processing, analytics, and visualization. PyData groups, events, and conferences aim to provide a venue for users acrossall the various domains of data analysis to share their experiences and their techniques. PyData is organized by NumFOCUS.org, a 501(c)3 non-profit in the United States.\n\nThe PyData \u200bCode of Conduct\u200b governs this meetup. To discuss any issues or concerns relating to the code of conduct or the behavior of anyone at a PyData meetup, please contact the organizer or NumFOCUS Executive Director Leah Silen (+1512-222-5449; leah@numfocus.org).\n-.--.--.--.--.--.--.--.--.--.--.--.-\n\nOur PyData Bratislava (Facebook group) you can find here: /redirect?redir_token=NXxYgx2GGdyYbCRro6Fgf6t1UT98MTUxOTU1MzA3N0AxNTE5NDY2Njc3&q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1813599648877946%2F&event=video_description&v=4wq0xSo12tg\n\nOur PyData Bratislava (Twitter account) here: https://twitter.com/PyDataBA\n\nOur PyData Bratislava (LinkedIn group) here: https://www.linkedin.com/groups/13506080\n-.--.--.--.--.--.--.--.--.--.--.--.-\nGapData Institute (GDI) is a nonprofit nonpartisan research institution harnessing power of data & wisdom of economics for public good. || Data. Think. Change. ||\n\nNumFOCUS is a 501(c)(3) nonprofit that supports and promotes world-class, innovative, open source scientific computing. The mission of NumFOCUS is to promote sustainable high-level programming languages, open code development, and reproducible scientific research. We accomplish this mission through our educational programs and events as well as through fiscal sponsorship of open source data science projects. We aim to increase collaboration and communication within the scientific computing community.",
+  "duration": 2895,
+  "language": "eng",
+  "recorded": "2017-04-22",
+  "related_urls": [
+    {
+      "label": "group meetup",
+      "url": "https://www.meetup.com/PyData-Bratislava/"
+    },
+    "https://kardio.me",
+    "https://twitter.com/jmargeta",
+    "https://twitter.com/PyDataBA",
+    "https://www.linkedin.com/groups/13506080",
+    "https://www.linkedin.com/in/jmargeta",
+    "http://www.vibot.org"
+  ],
+  "speakers": [
+    "TODO",
+    "enter_manually"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/4wq0xSo12tg/hqdefault.jpg",
+  "title": "[Jan Margeta: Bringing medical imaging data to life @ PyData Bratislava Meetup #2]",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=4wq0xSo12tg"
+    }
+  ]
+}
